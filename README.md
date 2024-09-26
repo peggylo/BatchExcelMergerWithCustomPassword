@@ -1,4 +1,4 @@
-# BatchExcel Merger With Custom Password
+# Batch Excel Merger With Custom Password
 
 This script merges multiple Excel files from the current directory, adds custom password and batch number columns, and outputs a combined file.
 
@@ -21,11 +21,11 @@ This script merges multiple Excel files from the current directory, adds custom 
    cd your-repo-url
 
 3. **Run the script**:
-   - Ensure your Excel files are placed in the current directory, then execute:
-     ```python batch_excel_merger.py
+   nsure your Excel files are placed in the current directory, then execute:
+   ```python batch_excel_merger.py
      
 4. **Output**:
-    - A new Excel file merged_excel_with_custom_password_and_batch.xlsx will be created, containing the merged data with custom password and batch number columns.
+   A new Excel file `merged_excel_with_custom_password_and_batch.xlsx` will be created, containing the merged data with custom password and batch number columns.
 
 ## Requirements
 
